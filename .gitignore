@@ -1,0 +1,6 @@
+*.pem
+wg0.conf
+keys/
+caddy-root.crt
+*.key
+.env
